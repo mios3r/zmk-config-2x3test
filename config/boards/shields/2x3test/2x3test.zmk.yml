@@ -1,0 +1,8 @@
+file_format: "1"
+id: 2x3test
+name: 2x3test
+type: shield
+url: https://github.com/mios3r/zmk-config-2x3test
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

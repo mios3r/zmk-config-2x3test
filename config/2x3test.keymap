@@ -5,7 +5,8 @@
 
 #define BASE 0
 
-keymap {
+/{
+    keymap {
     compatible = "zmk,keymap";
 
     base_layer {
@@ -22,6 +23,6 @@ keymap {
 
         >;
 
-    }
-
+                };
+            };
 };
